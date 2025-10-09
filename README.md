@@ -38,11 +38,8 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
   
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aya-0x&limit=6&theme=dark&combine_all_yearly_contributions=true)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aya-0x/Aya-0x/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aya-0x/Aya-0x/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aya-0x/Aya-0x/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Freyja099/Freyja099/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Freyja099/Freyja099/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Freyja099/Freyja099/output/github-snake.svg" />
 </picture>
